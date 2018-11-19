@@ -6,7 +6,7 @@
 | Name  	|  Version 	|
 |---	|---	|
 |  Spark 	| 2.2.0  	|
-|  Pytohn 	| 3.4.4  	|
+|  Python 	| 3.4.4  	|
 |  Java 	| 1.8.0_72	  	|
 
 
