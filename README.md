@@ -20,7 +20,6 @@
 
 2. Setting environment variables
 * `export PYSPARK_PYTHON=/share/apps/python/3.4.4/bin/python3`
-* `export PYTHONHASHSEED=0`
 * `export SPARK_YARN_USER_ENV=PYTHONHASHSEED=0`
 3. Starting PySpark
 * `pyspark2`
